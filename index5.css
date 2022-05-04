@@ -1,0 +1,59 @@
+body {
+    background-color: darkseagreen;
+    justify-content: center;
+    align-items: center;
+}
+
+div {
+    z-index: 10;
+}
+
+.form {
+    background-color: white;
+    width: 35%;
+    margin-top: 30px;
+    margin-left: 400px;
+    align-items: center;
+    justify-content: center;
+    padding-left: 90px;
+    padding-top: 100px;
+    padding-bottom: 80px;
+    border-radius: 5%;
+    z-index: 10;
+}
+
+label {
+    color: lightslategray;
+}
+
+a {
+    color: lightslategray;
+}
+
+.get {
+    border-top: 0vh;
+    border-left: 0vh;
+    border-right: 0vh;
+    border-color: lightslategray;
+    border-bottom-width: 0.6vh;
+    width: 300px;
+    padding-bottom: 10px;
+}
+
+.login {
+    color: white;
+    background-color: green;
+    width: 150px;
+    padding: 12px 12px 12px 12px;
+    border-color: green;
+    border-radius: 30px;
+}
+
+img {
+    width: 41.7%;
+    margin-top: 30px;
+    margin-left: 400px;
+    margin-bottom: -90px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
