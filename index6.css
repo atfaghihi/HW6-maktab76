@@ -1,0 +1,80 @@
+body {
+    background-image: url("238-2389922_dubai-skyscrapers-timelapse-monochrome-modern-architecture-dubai-black.jpg");
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    z-index: 10;
+    margin-left: 60px;
+    border-radius: 100px;
+}
+
+.form {
+    height: 400px;
+    width: 280px;
+    margin-left: 500px;
+    margin-top: 50px;
+    padding-left: 50px;
+    padding-right: 15px;
+    padding-top: 30px;
+    padding-bottom: 140px;
+    border-bottom: 150px;
+    background: radial-gradient(circle, rgba(77, 103, 231, 1) 12%, rgba(123, 51, 143, 1) 99%);
+    justify-content: center;
+    align-items: center;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+
+.log {
+    color: white;
+    background-color: rgb(77, 103, 231);
+    border-top: 0vh;
+    border-left: 0vh;
+    border-right: 0vh;
+    border-color: white;
+    border-width: 1px;
+    width: 230px;
+    padding-bottom: 15px;
+}
+
+.login {
+    width: 100px;
+    height: 40px;
+    background-color: white;
+    border-color: white;
+    border-radius: 20px;
+    margin-left: 25px;
+}
+
+.remember {
+    color: white;
+}
+
+.forgot {
+    color: white;
+}
+
+p {
+    padding-top: 1px;
+    color: white;
+    padding-left: 80px;
+    padding-bottom: 30px;
+}
+
+.input-icons i {
+    position: absolute;
+    right: 253px;
+    top: 4px 8px;
+    padding: 6px 8px;
+}
+
+.input-icons {
+    margin-bottom: 10px;
+    position: relative;
+}
